@@ -24,9 +24,9 @@ modularización y manejo de errores.
    ```
 
 2. Iniciar servidor:
-   `bash
+   ```bash
     python servidor.py
-    `
+   ```
    Abrimos otra terminal e iniciamos el cliente
 
 3. Iniciar cliente:
